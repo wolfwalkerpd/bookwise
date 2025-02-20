@@ -7,7 +7,7 @@ const Home = () => {
     <BookOverview />
 
     <BookList />
-  </>;
+  </>
 };
 
 export default Home;
